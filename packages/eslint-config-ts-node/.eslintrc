@@ -1,0 +1,6 @@
+{
+  "extends": ["@jurajmatus/eslint-config-neutral"],
+  "env": {
+    "node": true
+  }
+}

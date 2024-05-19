@@ -1,0 +1,10 @@
+{
+  "plugins": ["react", "react-hooks"],
+  "extends": ["@jurajmatus/eslint-config-neutral"],
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "@typescript-eslint/no-non-null-assertion": ["off"]
+  }
+}

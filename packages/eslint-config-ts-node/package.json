@@ -1,0 +1,16 @@
+{
+  "name": "@jurajmatus/eslint-config-ts-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc",
+  "scripts": {},
+  "author": "Juraj Matuš",
+  "license": "ISC",
+  "dependencies": {
+    "@jurajmatus/configs-ts-neutral": "https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-ts-neutral?42fe343cd2653a3a0482719a50068866a086d429"
+  },
+  "peerDependencies": {
+    "eslint": "^8",
+    "prettier": "^3"
+  }
+}

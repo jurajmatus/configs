@@ -1,0 +1,16 @@
+{
+  "name": "@jurajmatus/eslint-config-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc",
+  "scripts": {},
+  "author": "Juraj Matuš",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-jest": "^28.5.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8",
+    "prettier": "^3"
+  }
+}

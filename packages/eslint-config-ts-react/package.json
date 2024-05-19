@@ -1,0 +1,18 @@
+{
+  "name": "@jurajmatus/eslint-config-ts-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc",
+  "scripts": {},
+  "author": "Juraj Matuš",
+  "license": "ISC",
+  "dependencies": {
+    "@jurajmatus/configs-ts-neutral": "https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-ts-neutral?42fe343cd2653a3a0482719a50068866a086d429",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.2"
+  },
+  "peerDependencies": {
+    "eslint": "^8",
+    "prettier": "^3"
+  }
+}

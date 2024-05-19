@@ -1,0 +1,12 @@
+{
+  "name": "@jurajmatus/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".prettierrc.json",
+  "scripts": {},
+  "author": "Juraj Matuš",
+  "license": "ISC",
+  "peerDependencies": {
+    "prettier": "^3"
+  }
+}
