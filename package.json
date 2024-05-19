@@ -1,0 +1,14 @@
+{
+  "name": "@jurajmatus/configs",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:jurajmatus/configs.git",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}
