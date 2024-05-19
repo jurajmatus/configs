@@ -7,7 +7,7 @@
   "author": "Juraj Matuš",
   "license": "ISC",
   "dependencies": {
-    "@jurajmatus/configs-ts-neutral": "https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-ts-neutral?42fe343cd2653a3a0482719a50068866a086d429"
+    "@jurajmatus/configs-ts-neutral": "https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-ts-neutral?f82c759c24c363a1e133a1f7842765eb0c6d1a00"
   },
   "peerDependencies": {
     "eslint": "^8",
