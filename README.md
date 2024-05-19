@@ -7,7 +7,7 @@ Install the config of your choice, eslint and prettier:
 ```bash
 yarn add -D eslint prettier
 # one of
-yarn add -D https://gitpkg.now.sh/jurajmatus/eslint-configs/packages/eslint-config-ts-node-strict
+yarn add -D https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-...
 ```
 
 Add this to `.eslintrc.json`:
@@ -15,14 +15,8 @@ Add this to `.eslintrc.json`:
 ```diff
 {
 -  "extends": [],
-+  "extends": ["ts-node-strict"],
++  "extends": ["@jurajmatus/eslint-config-..."],
 }
-```
-
-which can be done with `jq`:
-
-```bash
-(cat .eslintrc.json || echo '{}') | jq '.extends += ["ts-node-strict"]'
 ```
 
 ## Prettier
@@ -30,6 +24,6 @@ which can be done with `jq`:
 Create `.prettierrc.js`:
 
 ```js
-const prettierBase = require("prettier-config");
+const prettierBase = require("@jurajmatus/prettier-config");
 module.exports = prettierBase;
 ```
