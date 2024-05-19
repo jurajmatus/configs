@@ -7,7 +7,7 @@
   "author": "Juraj Matuš",
   "license": "ISC",
   "dependencies": {
-    "@jurajmatus/eslint-config-ts-neutral": "https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-ts-neutral?cf9b8ab0e5f42b16e1114a28b11967acf327b346",
+    "@jurajmatus/eslint-config-ts-neutral": "https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-ts-neutral?c7e051dec71ca2870a2f120d7e5673339c85314b",
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.6.2"
   },
