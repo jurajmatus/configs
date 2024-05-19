@@ -1,5 +1,5 @@
 {
-  "extends": ["@jurajmatus/eslint-config-neutral"],
+  "extends": ["@jurajmatus/eslint-config-ts-neutral"],
   "env": {
     "node": true
   }
