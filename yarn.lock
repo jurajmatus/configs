@@ -14,10 +14,8 @@
   resolved "https://registry.yarnpkg.com/@eslint-community/regexpp/-/regexpp-4.10.0.tgz#548f6de556857c8bb73bbee70c35dc82a2e74d63"
   integrity sha512-Cu96Sd2By9mCNTx2iyKOmq10v22jUVQv0lQnlGNy16oE9589yE+QADPbrMGCkA51cKZSg3Pu/aTJVTGfL/qjUA==
 
-"@jurajmatus/eslint-config-ts-neutral@https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-ts-neutral?c7e051dec71ca2870a2f120d7e5673339c85314b":
+"@jurajmatus/eslint-config-ts-neutral@file:packages/eslint-config-ts-neutral":
   version "1.0.0"
-  uid "0a43750c8e40f04a992a1d2e373efb97a73b7a95"
-  resolved "https://gitpkg.now.sh/jurajmatus/configs/packages/eslint-config-ts-neutral?c7e051dec71ca2870a2f120d7e5673339c85314b#0a43750c8e40f04a992a1d2e373efb97a73b7a95"
   dependencies:
     "@typescript-eslint/eslint-plugin" "^7.9.0"
     "@typescript-eslint/parser" "^7.9.0"
